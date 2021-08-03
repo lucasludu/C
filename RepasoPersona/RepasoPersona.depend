@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1627056155 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"registro.h"
+	"variosRegistros.h"
+	"pasajes.h"
+	"listaSimple.h"
+	"listaDoble.h"
+	"Pila.h"
+	"Fila.h"
+	"Arbol.h"
+
+1626215778 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\registro.h
+	<stdio.h>
+	<stdlib.h>
+
+1626455399 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\variosregistros.h
+	<stdio.h>
+	<stdlib.h>
+	"registro.h"
+
+1626219629 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\registro.c
+	"registro.h"
+
+1627055804 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\pasajes.c
+	"pasajes.h"
+
+1626219811 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\variosregistros.c
+	"variosRegistros.h"
+	"registro.h"
+
+1626285413 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\listasimple.c
+	"listaSimple.h"
+
+1626285355 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\listasimple.h
+	<stdio.h>
+	<stdlib.h>
+	"registro.h"
+
+1627056155 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\pasajes.h
+	<stdio.h>
+	<stdlib.h>
+	"variosRegistros.h"
+	"listaSimple.h"
+	"listaDoble.h"
+	"Pila.h"
+	"Fila.h"
+	"Arbol.h"
+
+1626380930 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\listadoble.c
+	"listaDoble.h"
+
+1626381383 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	"registro.h"
+
+1626640861 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\pila.c
+	"Pila.h"
+
+1626457787 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\pila.h
+	<stdio.h>
+	<stdlib.h>
+	"registro.h"
+	"variosRegistros.h"
+	"listaSimple.h"
+
+1626651287 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"registro.h"
+	"listaDoble.h"
+
+1626738511 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\fila.c
+	"Fila.h"
+
+1626746365 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\arbol.c
+	"Arbol.h"
+
+1626746321 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\repasopersona\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	"registro.h"
+
