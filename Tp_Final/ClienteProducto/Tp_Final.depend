@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1633630579 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\tp_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<malloc.h>
+	"utilidades.h"
+	"cliente.h"
+	"variosClientes.h"
+	"producto.h"
+	"variosProductos.h"
+
+1602424368 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\tp_final\utilidades.h
+
+1633478688 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\tp_final\cliente.h
+	<stdio.h>
+	<stdlib.h>
+
+1633299647 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\tp_final\variosclientes.h
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1633631672 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\tp_final\utilidades.c
+	"utilidades.h"
+	"time.h"
+	"windows.h"
+
+1633634053 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\tp_final\variosclientes.c
+	"variosClientes.h"
+
+1633633485 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\tp_final\cliente.c
+	"cliente.h"
+
+1491400450 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\tp_final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1633444893 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\tp_final\producto.h
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1633630448 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\tp_final\producto.c
+	"producto.h"
+
+1633390959 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\tp_final\variosproductos.h
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"variosClientes.h"
+	"producto.h"
+
+1633631742 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\tp_final\variosproductos.c
+	"variosProductos.h"
+
