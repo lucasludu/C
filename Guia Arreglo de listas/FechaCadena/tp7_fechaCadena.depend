@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1604532829 source:c:\users\lucaaas\desktop\utn progr\programacion 2\3 - tp2020\tp7_estructuras\tp7_fechacadena\cadena.c
+	"cadena.h"
+
+1604526645 c:\users\lucaaas\desktop\utn progr\programacion 2\3 - tp2020\tp7_estructuras\tp7_fechacadena\cadena.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1604533004 source:c:\users\lucaaas\desktop\utn progr\programacion 2\3 - tp2020\tp7_estructuras\tp7_fechacadena\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"cadena.h"
+
+1604867020 source:c:\users\lucaaas\desktop\utn progr\programacion 2\3 - tp2020\tp7_estructuras\tp7_fechacadena\fecha.c
+	"fecha.h"
+
+1604867020 c:\users\lucaaas\desktop\utn progr\programacion 2\3 - tp2020\tp7_estructuras\tp7_fechacadena\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

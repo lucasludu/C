@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1635873833 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\2_segundoparcial\clinicamedica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	"registro.h"
+
+1635871416 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\2_segundoparcial\clinicamedica\registro.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1635872738 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\2_segundoparcial\clinicamedica\registro.c
+	"registro.h"
+
+1635873833 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\guia adl\clinicamedica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	"registro.h"
+
+1635871416 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\guia adl\clinicamedica\registro.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1635968877 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\guia adl\clinicamedica\registro.c
+	"registro.h"
+

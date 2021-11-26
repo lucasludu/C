@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1635626488 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"Estructuras.h"
+	"registro.h"
+	"variosRegistros.h"
+	"arbol.h"
+	"adl.h"
+
+1635626518 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_3\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+
+1635624054 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_3\registro.h
+	"Estructuras.h"
+
+1635620567 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_3\registro.c
+	"registro.h"
+
+1602424368 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_3\utilidades.c
+	"utilidades.h"
+	"time.h"
+	"windows.h"
+
+1602424368 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_3\utilidades.h
+
+1635621954 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_3\variosregistros.h
+	"Estructuras.h"
+	"registro.h"
+
+1635621640 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_3\variosregistros.c
+	"variosRegistros.h"
+
+1635623584 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_3\arbol.h
+	"Estructuras.h"
+
+1635624751 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_3\arbol.c
+	"arbol.h"
+
+1635627073 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_3\adl.h
+	"Estructuras.h"
+

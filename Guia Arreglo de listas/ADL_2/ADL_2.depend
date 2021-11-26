@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1634607877 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_2\listacliente.c
+	"listaCliente.h"
+
+1634607877 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_2\listacliente.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1634601871 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_2\persona.h
+	<stdio.h>
+	<stdlib.h>
+
+1634608303 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"persona.h"
+	"listaCliente.h"
+	"nodoCaja.h"
+
+1634602009 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_2\persona.c
+	"persona.h"
+
+1634609632 c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_2\nodocaja.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"listaCliente.h"
+
+1634609640 source:c:\users\lucaaas\desktop\programación\1 - utn\laboratorio2\2021\adl_2\nodocaja.c
+	"nodoCaja.h"
+
