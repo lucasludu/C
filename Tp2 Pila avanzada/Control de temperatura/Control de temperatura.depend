@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\lucaaas\dropbox\prog 1\2 - tps\tp2 pila avanzada\control de temperatura\pila.c
+	"pila.h"
+
+1490112217 c:\users\lucaaas\dropbox\prog 1\2 - tps\tp2 pila avanzada\control de temperatura\pila.h
+	<stdio.h>
+	<malloc.h>
+

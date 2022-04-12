@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1586460838 source:c:\users\lucaaas\desktop\utn progr\1er año\programacion 1\tp\tp2 pila re contra avanzada\tp2_ej13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112217 c:\users\lucaaas\desktop\utn progr\1er año\programacion 1\tp\tp2 pila re contra avanzada\tp2_ej13\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\lucaaas\desktop\utn progr\1er año\programacion 1\tp\tp2 pila re contra avanzada\tp2_ej13\pila.c
+	"pila.h"
+
+1586460838 source:c:\users\lucaaas\desktop\utn progr\1er año\programacion 1\2 - tp\primera parte\tp2 pila re contra avanzada\tp2_ej13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112217 c:\users\lucaaas\desktop\utn progr\1er año\programacion 1\2 - tp\primera parte\tp2 pila re contra avanzada\tp2_ej13\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\lucaaas\desktop\utn progr\1er año\programacion 1\2 - tp\primera parte\tp2 pila re contra avanzada\tp2_ej13\pila.c
+	"pila.h"
+

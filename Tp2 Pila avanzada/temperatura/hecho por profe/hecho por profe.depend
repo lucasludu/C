@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\lucaaas\desktop\utn progr\1er año\programacion 1\tp\tp2 pila re contra avanzada\temperatura\hecho por profe\pila.c
+	"pila.h"
+
+1490112217 c:\users\lucaaas\desktop\utn progr\1er año\programacion 1\tp\tp2 pila re contra avanzada\temperatura\hecho por profe\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1586544031 source:c:\users\lucaaas\desktop\utn progr\1er año\programacion 1\2 - tp\primera parte\tp2 pila re contra avanzada\temperatura\hecho por profe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"pila.h"
+
+1490112217 c:\users\lucaaas\desktop\utn progr\1er año\programacion 1\2 - tp\primera parte\tp2 pila re contra avanzada\temperatura\hecho por profe\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\lucaaas\desktop\utn progr\1er año\programacion 1\2 - tp\primera parte\tp2 pila re contra avanzada\temperatura\hecho por profe\pila.c
+	"pila.h"
+

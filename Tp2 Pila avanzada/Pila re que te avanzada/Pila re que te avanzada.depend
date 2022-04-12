@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1593615712 source:c:\users\lucaaas\dropbox\prog 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\main.c
+	"pilaa.h"
+
+1593445898 c:\users\lucaaas\dropbox\prog 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\pilaa.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"pila.h"
+
+1490112217 c:\users\lucaaas\dropbox\prog 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\lucaaas\dropbox\prog 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\pila.c
+	"pila.h"
+
+1593613650 source:c:\users\lucaaas\dropbox\prog 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\pilaa.c
+	"pilaa.h"
+
+1594932919 source:c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\main.c
+	"pilaa.h"
+
+1593445898 c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\pilaa.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"pila.h"
+
+1490112217 c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\pila.c
+	"pila.h"
+
+1593615846 source:c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\pilaa.c
+	"pilaa.h"
+
+1594932919 source:c:\users\lucaaas\desktop\programación\1 - universidad\utn\programacion 1\programacion 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\main.c
+	"pilaa.h"
+
+1649183652 c:\users\lucaaas\desktop\programación\1 - universidad\utn\programacion 1\programacion 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\pilaa.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"pila.h"
+
+1490112217 c:\users\lucaaas\desktop\programación\1 - universidad\utn\programacion 1\programacion 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\lucaaas\desktop\programación\1 - universidad\utn\programacion 1\programacion 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\pila.c
+	"pila.h"
+
+1593615846 source:c:\users\lucaaas\desktop\programación\1 - universidad\utn\programacion 1\programacion 1\2 - tps\tp2 pila avanzada\pila re que te avanzada\pilaa.c
+	"pilaa.h"
+

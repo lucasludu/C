@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1593654082 source:c:\users\lucaaas\dropbox\prog 1\2 - tps\tp2 pila avanzada\funciones\main.c
+	"funcion.h"
+
+1593653729 c:\users\lucaaas\dropbox\prog 1\2 - tps\tp2 pila avanzada\funciones\funcion.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"pila.h"
+
+1490112217 c:\users\lucaaas\dropbox\prog 1\2 - tps\tp2 pila avanzada\funciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\lucaaas\dropbox\prog 1\2 - tps\tp2 pila avanzada\funciones\pila.c
+	"pila.h"
+
+1593654065 source:c:\users\lucaaas\dropbox\prog 1\2 - tps\tp2 pila avanzada\funciones\funcion.c
+	"funcion.h"
+
+1593740976 source:c:\users\lucaaas\dropbox\prog 1\2 - tps\tp3 funciones\funciones\main.c
+	"funcion.h"
+
+1593741347 c:\users\lucaaas\dropbox\prog 1\2 - tps\tp3 funciones\funciones\funcion.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"pila.h"
+
+1490112217 c:\users\lucaaas\dropbox\prog 1\2 - tps\tp3 funciones\funciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\lucaaas\dropbox\prog 1\2 - tps\tp3 funciones\funciones\pila.c
+	"pila.h"
+
+1593801810 source:c:\users\lucaaas\dropbox\prog 1\2 - tps\tp3 funciones\funciones\funcion.c
+	"funcion.h"
+
+1593917172 source:c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp3 funciones\funciones\funcion.c
+	"funcion.h"
+
+1593917224 c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp3 funciones\funciones\funcion.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"pila.h"
+
+1490112217 c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp3 funciones\funciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp3 funciones\funciones\pila.c
+	"pila.h"
+
+1593917112 source:c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp3 funciones\funciones\main.c
+	"funcion.h"
+
