@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1614901927 source:c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp4 - arrays\arreglo\main.c
+	"array.h"
+
+1614901730 c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp4 - arrays\arreglo\array.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"pila.h"
+
+1490112217 c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp4 - arrays\arreglo\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp4 - arrays\arreglo\pila.c
+	"pila.h"
+
+1614901730 source:c:\users\lucaaas\dropbox\utn\prog 1\2 - tps\tp4 - arrays\arreglo\array.c
+	"array.h"
+
